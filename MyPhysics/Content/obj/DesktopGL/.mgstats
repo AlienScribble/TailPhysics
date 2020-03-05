@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/JEI/Documents/Visual Studio 2017/Projects/MyPhysics/MyPhysics/Content/Font.spritefont","C:/Users/JEI/Documents/Visual Studio 2017/Projects/MyPhysics/MyPhysics/Content/bin/DesktopGL/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2005,21521,0.5440311
+"C:/Users/JEI/Documents/Visual Studio 2017/Projects/MyPhysics/MyPhysics/Content/FontTexture.png","C:/Users/JEI/Documents/Visual Studio 2017/Projects/MyPhysics/MyPhysics/Content/bin/DesktopGL/FontTexture.xnb","TextureProcessor","Texture2DContent",79453,346125,0.0510029
+"C:/Users/JEI/Documents/Visual Studio 2017/Projects/MyPhysics/MyPhysics/Content/grass.png","C:/Users/JEI/Documents/Visual Studio 2017/Projects/MyPhysics/MyPhysics/Content/bin/DesktopGL/grass.xnb","TextureProcessor","Texture2DContent",396321,393301,0.0380022
+"C:/Users/JEI/Documents/Visual Studio 2017/Projects/MyPhysics/MyPhysics/Content/QuadEffect.fx","C:/Users/JEI/Documents/Visual Studio 2017/Projects/MyPhysics/MyPhysics/Content/bin/DesktopGL/QuadEffect.xnb","EffectProcessor","CompiledEffectContent",834,1527,0.4500257

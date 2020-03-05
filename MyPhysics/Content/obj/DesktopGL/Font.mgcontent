@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/JEI/Documents/Visual Studio 2017/Projects/MyPhysics/MyPhysics/Content/Font.spritefont</SourceFile>
+  <SourceTime>2018-02-11T17:41:32.7362214-06:00</SourceTime>
+  <DestFile>C:/Users/JEI/Documents/Visual Studio 2017/Projects/MyPhysics/MyPhysics/Content/bin/DesktopGL/Font.xnb</DestFile>
+  <DestTime>2020-03-04T02:16:30.6490982-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
